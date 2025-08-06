@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\WhoAreYou\obj\Debug\WhoAreYou.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\WhoAreYou\obj\Debug\WhoAreYou.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\WhoAreYou\bin\Debug\WhoAreYou.exe.config
+C:\Users\HP\source\repos\WhoAreYou\bin\Debug\WhoAreYou.exe
+C:\Users\HP\source\repos\WhoAreYou\bin\Debug\WhoAreYou.pdb
+C:\Users\HP\source\repos\WhoAreYou\obj\Debug\WhoAreYou.exe
+C:\Users\HP\source\repos\WhoAreYou\obj\Debug\WhoAreYou.pdb
+C:\Users\HP\source\repos\WhoAreYou\obj\Debug\WhoAreYou.exe.config
